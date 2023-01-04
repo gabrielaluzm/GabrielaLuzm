@@ -1,6 +1,6 @@
 ## Olá mundo! Eu sou a Gabriela Luz! Estou começando nessa jornada para me tornar programadora Front-end.
   <p> 🖌️ Trabalho atualmente na área de Digital illustration/Graphic design, como freelancer na Fiverr. </p>
-  <p> 🌱 Estudante de TADS na UVA e HTML | CSS | JavaScript | Typescript na Alura. </p>
+  <p> 🌱 Estudante de ADS na UVA e HTML | CSS | JavaScript | Typescript na Alura. </p>
   
 <div align="center">
   <a href="https://github.com/gabrielaluzm">
