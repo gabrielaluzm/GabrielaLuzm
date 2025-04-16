@@ -1,6 +1,7 @@
-## 👋 Oi, eu sou a Gabriela Luz! Apaixonada por criatividade, design e tecnologia — estou construindo minha jornada para me tornar uma desenvolvedora Front-end.
+## 👋 Oi, eu sou a Gabriela Luz!
+  <p>🌱 Apaixonada por criatividade, design e tecnologia — estou construindo minha jornada para me tornar uma desenvolvedora Front-end.</p>
   <p>🎨 Venho de uma trajetória no design gráfico e na ilustração digital, onde descobri o quanto amo transformar ideias em algo visual, bonito e que se comunique bem com as pessoas. Agora, quero fazer isso também com código — criando interfaces que, além de funcionais, sejam encantadoras de usar. </p>
-  <p> 🌱 Estou estudando com foco em: HTML, CSS, JavaScript, TypeScript e React. Também estou aprendendo sobre acessibilidade, responsividade e clean code. Usando de ferramentas como Figma, Git/GitHub e VS Code no meu dia a dia de estudos.</p>
+  <p>💻 Estou estudando com foco em: HTML, CSS, JavaScript, TypeScript e React. Também estou aprendendo sobre acessibilidade, responsividade e clean code. Usando de ferramentas como Figma, Git/GitHub e VS Code no meu dia a dia de estudos.</p>
   
 <div align="center">
   <a href="https://github.com/gabrielaluzm">
